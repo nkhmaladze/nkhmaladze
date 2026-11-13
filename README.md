@@ -1,6 +1,6 @@
 # Hi, I'm Nikoloz
 
-CS master's student at NYU and co-founding engineer at [Flipped Social](https://flippedsocial.com). I'm looking for software engineering roles starting in May 2027.
+CS master's student at NYU and co-founding engineer at [Flipped Social](https://flippedsocial.com). I'm looking for swe roles starting in May 2027.
 
 ## What I'm working on
 
